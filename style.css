@@ -1,0 +1,26 @@
+h1{
+    color: rgb(0, 128, 255);
+  
+}
+
+.topic{
+    background: rgb(205, 146, 250);
+    text-align: center; 
+    justify-content: space-between;
+}
+
+h2{
+    text-align: center;
+}
+
+.pictures{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    text-align: center;
+    color: rgb(0, 128, 225);
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
